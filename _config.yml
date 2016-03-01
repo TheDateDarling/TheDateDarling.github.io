@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://TheDateDarling.github.io
+title: TheDateDarling
+tagline: Navigating life in love...
+description: A lifestyle blog devoted to finding the one...and all the ones in between
+paginate: 5
